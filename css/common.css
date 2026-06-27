@@ -5,3 +5,43 @@
 @import './team.css';
 @import './portfolio.css';
 @import './footer.css';
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2E2F42;
+    letter-spacing: 2%;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 1.2;
+}
+
+p {
+    font-weight: 400;
+    color: #434455;
+}

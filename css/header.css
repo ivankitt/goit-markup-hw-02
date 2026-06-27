@@ -1,41 +1,33 @@
 .link-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
-    font-style: bold;
     font-size: 18px;
     line-height: 24px;
     letter-spacing: 3%;
-    color: #2E2F42;
+    text-transform: uppercase;
 }
 
 .span-web {
-    color: #4D5AE5;
+   color: #4D5AE5;
 }
 
 .link-nav {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: medium;
-    font-size: 16px;
+    font-style: Medium;
     line-height: 24px;
-    letter-spacing: 2%;
-    color: #2E2F42;
 }
 
-a {
-    text-decoration: none;
-}
-
-ul {
-    list-style-type: none;
+.link-nav:focus,
+.link-nav:hover {
+    color: #404BBF;
 }
 
 .link-address {
-    font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-style: regular;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    font-style: Regular;
     color: #434455;
+}
+
+.link-address:focus,
+.link-address:hover {
+    color: #404BBF;
 }
