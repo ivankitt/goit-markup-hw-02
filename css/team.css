@@ -1,4 +1,4 @@
-#team {
+.team {
     background-color: #F4F4FD;
 }
 
@@ -11,5 +11,8 @@
 }
 
 .p-team {
+    text-align: center;
+}
+.h2-team {
     text-align: center;
 }
